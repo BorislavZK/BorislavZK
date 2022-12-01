@@ -5,6 +5,7 @@
 - :e-mail: You can reach me at bobi.bg@gmail.com
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <!---
 BorislavZK/BorislavZK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
