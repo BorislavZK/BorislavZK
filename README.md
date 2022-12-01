@@ -2,7 +2,7 @@
 - 👀 I’m interested in QA, Java and any type of digital and analog hardwares
 - 🌱 I’m currently learning Java and QA
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me at bobi.bg@gmail.com
+- 📫 You can reach me at bobi.bg@gmail.com :e-mail:
 
 <!---
 BorislavZK/BorislavZK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
