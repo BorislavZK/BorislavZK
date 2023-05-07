@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @BorislavZK - Borislav Konstantinov
-- 👀 I’m interested in QA, Java and any type of digital and analog hardwares
-- 🌱 I’m currently learning Java and QA
+- 👀 I’m interested in QA, Java and any type of digital and analog hardwares.
+- 🌱 I’m currently learning Java and QA.
 - 💞️ I’m looking to collaborate on ...
 - :e-mail: You can reach me at bobi.bg@gmail.com
-
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
