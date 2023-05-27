@@ -43,7 +43,6 @@ Here are some of the key skills and technologies I possess:
 Let's connect and stay in touch!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-BorislavKonstantinov-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/borislav-konstantinov/)
-[![Twitter](https://img.shields.io/badge/Twitter-@your-twitter-handle-blue?style=flat-square&logo=twitter)](https://twitter.com/your-twitter-handle)
 
 
 <!---
