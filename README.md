@@ -1,4 +1,11 @@
+<!---
 # Hi, I'm Borislav Konstantinov! 👋
+--->
+
+<div align="center">
+  <H1> Hi, I'm Borislav Konstantinov! 👋</H1>
+  
+</div>
 
 
 ## About Me 
