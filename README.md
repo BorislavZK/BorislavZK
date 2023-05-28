@@ -1,6 +1,6 @@
-# Hi, I'm Borislav Konstantinov! 👋
+# <Center> Hi, I'm Borislav Konstantinov! 👋 </Center>
 
-## About Me
+## About Me 
 
 👀 I’m interested in QA, Java, and all types of digital and analog hardware. I enjoy exploring the intersection of software and hardware to create innovative solutions.
 
@@ -36,7 +36,7 @@ Here are some of the key skills and technologies I possess:
 
 ## Contact Me
 
-📧 You can reach me at bobi.bg@gmail.com. Feel free to reach out for collaborations, discussions, or job opportunities.
+:mailbox: You can reach me at bobi.bg@gmail.com. Feel free to reach out for collaborations, discussions, or job opportunities.
 
 ## Connect with Me
 
@@ -49,3 +49,4 @@ Let's connect and stay in touch!
 BorislavZK/BorislavZK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
