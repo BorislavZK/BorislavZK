@@ -1,4 +1,5 @@
-# <Center> Hi, I'm Borislav Konstantinov! 👋 </Center>
+# Hi, I'm Borislav Konstantinov! 👋
+
 
 ## About Me 
 
