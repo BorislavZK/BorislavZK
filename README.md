@@ -53,6 +53,15 @@ Let's connect and stay in touch!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-BorislavKonstantinov-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/borislav-konstantinov-06a835249?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BpF8JavvrTJiVEpL1toczbw%3D%3D)
 
 
+
+<!--
+ <div align="center">
+  <img src="img_girl.jpg" alt="Girl in a jacket" style="width:500px;height:600px;"> 
+</div>
+
+--->
+
+
 <!---
 BorislavZK/BorislavZK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
